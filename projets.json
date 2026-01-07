@@ -1,0 +1,14 @@
+[
+  {
+    "titre": "Site vitrine - Boulangerie",
+    "description": "Site vitrine moderne pour une boulangerie locale.",
+    "lien": "https://exemple.com",
+    "image": "images/boulangerie.jpg"
+  },
+  {
+    "titre": "Site e-commerce - Boutique",
+    "description": "Boutique en ligne avec paiement sécurisé.",
+    "lien": "https://exemple.com",
+    "image": "images/boutique.jpg"
+  }
+]
