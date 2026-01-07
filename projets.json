@@ -6,9 +6,9 @@
     "image": "images/cafe.png"
   },
   {
-    "titre": "Site e-commerce - Boutique",
-    "description": "Boutique en ligne avec paiement sécurisé.",
-    "lien": "https://exemple.com",
-    "image": "images/boutique.jpg"
+    "titre": "Site vitrine - Boutique vêtements",
+    "description": "Site vitrine magasin de vêtements.",
+    "lien": "https://siteexpressofficial.netlify.app/site_vetement.html",
+    "image": "images/vetement.png"
   }
 ]
