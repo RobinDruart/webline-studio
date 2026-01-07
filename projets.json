@@ -1,9 +1,9 @@
 [
   {
     "titre": "Site vitrine - Boulangerie",
-    "description": "Site vitrine moderne pour une boulangerie locale.",
+    "description": "Site vitrine moderne pour un cafe.",
     "lien": "https://siteexpressofficial.netlify.app/site_cafe.html",
-    "image": "images/boulangerie.jpg"
+    "image": "images/cafe.jpg"
   },
   {
     "titre": "Site e-commerce - Boutique",
