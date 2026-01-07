@@ -134,3 +134,16 @@ footer {
 #contact button:hover {
   background-color: #2563eb;
 }
+
+.projet {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.5s forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
