@@ -32,13 +32,14 @@ header {
 /* LOGO */
 header .logo {
   display: flex;
-  align-items: center;
+  align-items: center;   /* centre verticalement le logo et le titre */
+  gap: 15px;             /* espace entre logo et texte */
 }
 
 header .logo img {
-  width: 60px;
-  height: 60px;
-  margin-right: 15px;
+  width: 60px !important;        /* largeur forcée */
+  height: 60px !important;       /* hauteur forcée */
+  object-fit: contain !important; /* garde les proportions */
   border-radius: 12px;
   border: 1px solid #fff;
   box-shadow: 0 0 10px #5a5fe0;
@@ -213,3 +214,4 @@ footer {
     transform: translateY(0);
   }
 }
+
