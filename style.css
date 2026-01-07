@@ -37,14 +37,12 @@ header .logo {
 }
 
 header .logo img {
-  max-width: 60px;       /* largeur maximale */
-  max-height: 60px;      /* hauteur maximale */
-  width: auto;           /* garde les proportions */
-  height: auto;
+  width: 60px !important;        /* largeur forcée */
+  height: 60px !important;       /* hauteur forcée */
+  object-fit: contain !important; /* garde les proportions */
   border-radius: 12px;
   border: 1px solid #fff;
   box-shadow: 0 0 10px #5a5fe0;
-  object-fit: contain;   /* logo bien proportionné */
 }
 
 /* Header text */
@@ -216,3 +214,4 @@ footer {
     transform: translateY(0);
   }
 }
+
